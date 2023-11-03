@@ -1,9 +1,9 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "dynamic-font-size",
-  "title": "Dynamic font size",
+  "title": "Dynamic Font Size",
   "description": "Create dynamic font sizes using the 'clamp' CSS function",
-  "icon": "command-icon.png",
+  "icon": "clamp-icon.png",
   "author": "nils_hoenson",
   "categories": [
     "Developer Tools"

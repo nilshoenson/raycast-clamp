@@ -67,7 +67,7 @@ export default function Command() {
 
     await showToast({
       style: Toast.Style.Success,
-      title: "Generated size",
+      title: "Generated ✅",
       message: "Copied font-size to clipboard"
     })
   }
